@@ -21,6 +21,11 @@ nav-bar {
 
 }
 
+a {
+  text-align: center;
+  float: center;
+}
+
 
 .header-content{
     background-color: green;
