@@ -1,7 +1,6 @@
 # responsive-portfolio
 
 
-About
 
 
 
